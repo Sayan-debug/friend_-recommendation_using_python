@@ -1,3 +1,4 @@
+#implementation of friend recommendation system using graph data structure in the form of adjacency matrix
 # build the list to take the names from the user
 input_list = []
 # total number of users = n
